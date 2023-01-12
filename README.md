@@ -7,7 +7,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dgomes04_/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dgomes04/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdavi989@gmail.com?subject=Assunto&cc=gdavi989@gmail.com&cc=gdavi989@gmail.com&body=) [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/zeeqtae)
 
-![dgomes04 GitHub stats](https://github-readme-stats.vercel.app/api?username=dgomes04&show_icons=true&theme=dracula)
+![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgomes04&show_icons=true&theme=transparent)
 
 ### Tecnologias que ultilizo
 
