@@ -1,4 +1,4 @@
-## Olá! Eu sou o Davi Gomes 🖐
+## Olá! Eu sou o Davi Gomes <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 
  Estudo programação desde 2021 <br><br>
  Cursando Análise e desenvolvimento de sistemas - PUC MG 
