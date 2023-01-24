@@ -7,9 +7,14 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dgomes04_/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dgomes04/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdavi989@gmail.com?subject=Assunto&cc=gdavi989@gmail.com&cc=gdavi989@gmail.com&body=) [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/zeeqtae)
 
-![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgomes04&show_icons=true&theme=transparent)
+<div>
+  <a href="https://github.com/dgomes04">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=dgomes04&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 
-### Tecnologias que ultilizo
+</div>
+ <br>
+
+ ### Tecnologias que ultilizo
 
 <div style="display:inline_block"><br>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -19,6 +24,8 @@
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
+ 
+    
 
 ### Tecnologias que estou aprendendo
 
@@ -31,4 +38,10 @@
     <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     
     
+</div>
+   
+ </div>
+ 
+  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
