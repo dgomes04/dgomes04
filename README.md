@@ -1,43 +1,65 @@
-## Olá! Eu sou o Davi Gomes <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
+# 👋 Hi, I'm Davi Gomes
 
- Estudo programação desde 2021 <br><br>
- Cursando Análise e desenvolvimento de sistemas - Newton Paiva
+## Software Developer | Java | C# | Angular | AWS
 
-### Redes sociais
+I'm a software developer with experience in developing scalable microservices and web applications. My focus is on backend development, event-driven programming, and cloud infrastructure. I enjoy building efficient and high-performance solutions using technologies like **Java**, **C#**, **Angular**, and **AWS**.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dgomes04_/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dgomes04/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdavi989@gmail.com?subject=Assunto&cc=gdavi989@gmail.com&cc=gdavi989@gmail.com&body=) [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/zeeqtae)
+🔧 Currently, I am working as a **Backend Software Engineer** where I contribute to creating scalable and reliable systems in a fast-paced environment. I have hands-on experience with **microservices architecture**, **cloud technologies**, and automation tools.
 
-<div>
-  <a href="https://github.com/dgomes04">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=dgomes04&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+🌱 **Expected graduation**: June 2025, Bachelor's in Systems Analysis and Development.
 
-</div>
- <br>
+### 🔗 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/dgomes04)
+- [GitHub](https://github.com/dgomes04)
 
- ### Tecnologias que ultilizo
+---
 
-<div style="display:inline_block"><br>
-    <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-    <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-</div>
- 
-    
+## 💼 Professional Experience
 
-### Tecnologias que estou aprendendo
+### dti digital | Backend Software Engineer I 
+**June 2024 – Present | Belo Horizonte, MG**
 
-<div style="display:inline_block"><br>
-    <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    
-    
-</div>
-   
- </div>
- 
-  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+- Developing and maintaining **scalable microservices** with **Java 17/21** and **hexagonal architecture**.
+- Event-driven programming using **Kafka**.
+- Managing data with **MongoDB** and **SQL Server**.
+- Scaling applications using **Kubernetes** and implementing **Infrastructure as Code (IaC)** with **Terraform**.
+- Observability and monitoring with **New Relic**.
+- Using **AWS services** and maintaining **CI/CD pipelines**.
+
+### Mottu | Full Stack Developer
+**March 2023 – June 2024 | São Paulo, SP**
+
+- Developed microservices using **.NET 7** and **layered architecture**.
+- Built and maintained web applications with **AngularJs**.
+- Managed data with **SQL Server** and **MongoDB**.
+- Monitoring with **Datadog** and **Grafana**.
+- Automated **CI/CD pipelines** and worked with **Selenium**, **Kafka**, **RabbitMQ**, **K8s**, and **Blazor**.
+
+---
+
+## 🎓 Education
+**Centro Universitário Newton Paiva**  
+Bachelor's in **Systems Analysis and Development**  
+March 2022 – **June 2025 (Expected)**
+
+---
+
+## 🛠️ Technical Skills
+
+- **Programming Languages**: Java, C#, TypeScript
+- **Frameworks and Tools**: Angular, Blazor, Terraform
+- **Infrastructure and Cloud**: AWS, Kubernetes, Docker
+- **Messaging**: Kafka, RabbitMQ
+- **Observability**: New Relic, Datadog, Grafana
+- **Databases**: MongoDB, DynamoDB, SQL Server
+
+---
+
+## 📜 Certifications
+
+- [Java Course](https://app.rocketseat.com.br/certificates/c3e640ae-4399-40e4-828a-6d700736d4f4)
+- [EF SET English Certificate (C1 Advanced)](https://cert.efset.org/NYVJEN)
+
+---
+
+Feel free to check out my repositories and projects here on GitHub. Let's collaborate and build something amazing!
