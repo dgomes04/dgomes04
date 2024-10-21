@@ -6,11 +6,9 @@ I'm a software developer with experience in developing scalable microservices an
 
 🔧 Currently, I am working as a **Backend Software Engineer** where I contribute to creating scalable and reliable systems in a fast-paced environment. I have hands-on experience with **microservices architecture**, **cloud technologies**, and automation tools.
 
-🌱 **Expected graduation**: June 2025, Bachelor's in Systems Analysis and Development.
-
 ### 🔗 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/dgomes04)
-- [GitHub](https://github.com/dgomes04)
+- [Gmail](mailto:gdavi989@gmail.com)
 
 ---
 
