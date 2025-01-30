@@ -58,6 +58,9 @@ March 2022 – **June 2025 (Expected)**
 - [Java Course](https://app.rocketseat.com.br/certificates/c3e640ae-4399-40e4-828a-6d700736d4f4)
 - [Java + AWS Course](https://app.rocketseat.com.br/certificates/20ce8ae1-b4eb-49cb-bca8-47cc8dc8458e)
 - [EF SET English Certificate (C1 Advanced)](https://cert.efset.org/NYVJEN)
+- [Spring Boot Fundamentals](https://app.rocketseat.com.br/certificates/8d99d9ba-a9c4-4f1b-9d70-086fbbb11ba3)
+- [Java Fundamentals](https://app.rocketseat.com.br/certificates/59494d4f-9313-4fbf-9fe7-01507c8b399f)
+- [Clean Code](https://www.udemy.com/certificate/UC-91c4a84e-9d1e-4a9f-af6c-1c200403fcd9/)
 
 ---
 
